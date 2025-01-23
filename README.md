@@ -16,6 +16,7 @@ Cuento con experiencia en la arquitectura de sistemas mediante microservicios y 
 Estoy comprometido con la mejora continua y con aportar valor a cada proyecto en el que participo, ofreciendo soluciones innovadoras y eficientes para satisfacer las necesidades del negocio.
 
 ---
+<div align="center">
 
 ## 🛠️ Stack Tecnológico  
 
@@ -27,6 +28,8 @@ Estoy comprometido con la mejora continua y con aportar valor a cada proyecto en
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
 |                                        |                                        | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+<div>
 
 ---
 
