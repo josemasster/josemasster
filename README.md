@@ -6,7 +6,7 @@
 </h3>
 <img src="./img/banner.jpeg"/>
 
-<br><br>
+
 ---
 ## 🚀 Sobre Mí
 Soy un desarrollador de software con 2 años de experiencia en la creación de aplicaciones web, especializándome en el uso de tecnologías modernas.
@@ -30,8 +30,8 @@ Estoy comprometido con la mejora continua y con aportar valor a cada proyecto en
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
 |                                        |                                        | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 </div>
----
 
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -42,10 +42,10 @@ Estoy comprometido con la mejora continua y con aportar valor a cada proyecto en
   </a>
 </p>
 
----
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <br><br><br>
+
 
 Last Edited on: 01/01/2025
 
